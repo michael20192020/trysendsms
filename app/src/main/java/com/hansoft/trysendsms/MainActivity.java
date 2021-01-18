@@ -14,7 +14,7 @@ public class MainActivity extends AppCompatActivity {
     private EditText editTextPhoneNumber;
     private EditText editTextMessage;
     private boolean success;
-    
+    private boolean fail;
 
 
 
